@@ -1,0 +1,4 @@
+*.out
+*.bcres
+build*
+cgfxReader
